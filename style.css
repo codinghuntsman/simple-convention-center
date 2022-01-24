@@ -1,0 +1,47 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Oswald:wght@700&family=Playfair+Display&family=Poppins:wght@500;600;700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.familiar-title {
+    font-family: 'Playfair Display', serif;
+}
+.list-background-color {
+    background-image: linear-gradient(to right, #fa61ae, #cf3ec3de);
+    border-radius: 30px;
+    color: white;
+    bottom: 60px;
+}
+.carousel-banner {
+    margin-top: 100px;
+}
+
+/* second slide text color */
+.awesome-venue {
+    color: #ff2e97;
+}
+/* third slide text color */
+.extraordinary-venue {
+    color: hotpink;
+}
+.every-moment {
+    margin-top: 150px;
+}
+/* our package, section margin */
+.package-margin {
+    margin-top: 120px;
+}
+.our-package {
+    margin-top: 120px;
+}
+/* Hot position */
+.hot {
+    bottom: 405px;
+    background-color: tomato;
+    padding: 5px 15px;
+}
+.new-text-style {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+ 
